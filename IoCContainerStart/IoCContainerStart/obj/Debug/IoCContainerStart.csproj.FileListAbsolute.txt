@@ -1,0 +1,6 @@
+D:\Study\dotNet\IoC\IoCContainerStart\IoCContainerStart\bin\Debug\IoCContainerStart.exe.config
+D:\Study\dotNet\IoC\IoCContainerStart\IoCContainerStart\bin\Debug\IoCContainerStart.exe
+D:\Study\dotNet\IoC\IoCContainerStart\IoCContainerStart\bin\Debug\IoCContainerStart.pdb
+D:\Study\dotNet\IoC\IoCContainerStart\IoCContainerStart\obj\Debug\IoCContainerStart.csprojResolveAssemblyReference.cache
+D:\Study\dotNet\IoC\IoCContainerStart\IoCContainerStart\obj\Debug\IoCContainerStart.exe
+D:\Study\dotNet\IoC\IoCContainerStart\IoCContainerStart\obj\Debug\IoCContainerStart.pdb
